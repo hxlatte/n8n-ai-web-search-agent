@@ -104,7 +104,7 @@ Add a screenshot of your n8n workflow here:
 
 ## 📸 Workflow Preview
 
-![n8n AI Web Search Agent](workflow.png)
+![n8n AI Web Search Agent](workflow.png.jpeg)
 ## 🎯 Purpose
 
 This project demonstrates how to build a tool-using AI agent with n8n that can combine:
